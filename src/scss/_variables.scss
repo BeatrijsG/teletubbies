@@ -1,0 +1,26 @@
+// FONT:
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap');
+
+$font-stack: Roboto, Arial, Helvetica, sans-serif;
+
+
+// COLORS:
+$black: #000;
+$white: #fff;
+$light-grey: #f6f6f6;
+$grey: #777;
+$dark-grey: #292929;
+$yellow-grey: #efe8e0;
+
+$red: #d10910;
+$dark-red: #a71d2c;
+$blue: #0486bf;
+$dark-blue: #02405a;
+
+$bg-color: $light-grey;
+
+// BORDERS:
+$border-style: 2px solid $yellow-grey;
+
+// BREAKPOINTS:
+$break: 600px;
